@@ -122,11 +122,9 @@ setInterval(() => {
 
 const iltifatlar = [
     "Çok güzelsin.",
-    "İLTİFAT YAZ BURAYA",
-    "İLTİFAT YAZ BURAYA",
-    "bu şekilde yapabilirsiniz",
-    "bu şekilde yapabilirsiniz",
-    "BGXD"
+    "<3",
+    "Bayıldım Sana",
+    "Ne kadar da Güzelsin"
 ];
 // İLTİFATLARI BU ŞEKİLDE İSTEDİĞİNİZ KADAR ÇOĞALTABİLİRSİNİZ
 var iltifatSayi = 0; // Buraya ellemeyin!
